@@ -1,0 +1,128 @@
+@media (max-width:1030px) {
+    .home-banner-text-1 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-100%, -50%)
+        
+
+    }
+
+    .home-banner-text-2 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 250px;;
+
+    }
+
+    .home .home-banner .home-banner-text-1 h1,
+    .home .home-banner .home-banner-text-2 h1 {
+        font-size: 3rem;
+    }
+
+    .txt{
+        color:white;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        transform: translate(30%,-280%)
+        
+    }
+
+    .para{
+        width:370px;
+        margin-left: 110px;
+    }
+
+    
+}
+
+@media (max-width:991px) {
+    .home .home-banner .home-banner-text-1 h1,
+    .home .home-banner .home-banner-text-2 h1 {
+        font-size:3rem;
+    }
+
+    .home-banner-text-1 {
+        position: absolute;
+        top: 50%;
+        left: 40%;
+       width:200px;
+
+    }
+
+    .home-banner-text-2 {
+        position: absolute;
+        top: 50%;
+        left: 45%;
+       width:200px;
+
+    }
+
+    .para{
+        width:350px;
+        margin-left: 150px;
+    }
+
+    
+    .txt{
+        color:white;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        transform: translate(23%,-220%)
+        
+    }
+
+    
+
+  
+}
+
+@media (max-width:767px) {
+    .para{
+        width:250px;
+        margin-left: 40px;
+    }
+    .txt{
+        color:white;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        transform: translate(10%,-300%);
+        font-size: 1rem;
+        margin-left: 39px;
+        
+    }
+
+    .products .up_to_off img{
+        height:100px;
+    }
+
+    .home-banner-text-1 {
+        position: absolute;
+        top: 50%;
+        left: 70%;
+        transform: translate(-100%, 10%)
+        
+    
+    }
+
+    .home-banner-text-2 {
+        position: absolute;
+        top: 50%;
+        left: 60%;
+        transform: translate(-100%, 10%)
+        
+    
+    }
+    .home .home-banner .home-banner-text-1 h1,
+    .home .home-banner .home-banner-text-2 h1 {
+    font-size: 3rem;
+    color:#FF3346 ;
+}
+
+
+
+.home .home-banner .home-banner-text-1 h2,
+.home .home-banner .home-banner-text-2 h2{
+    color:red,
+   
+}
+
+}
